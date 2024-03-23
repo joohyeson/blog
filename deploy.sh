@@ -1,5 +1,5 @@
 cd public
-git checkout master
+git checkout main
 git pull
 rm -rf `ls -a | grep -v .git`
 cd ..

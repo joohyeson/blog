@@ -1,3 +1,3 @@
 git pull
 cd public
-git pull origin master
+git pull origin main
